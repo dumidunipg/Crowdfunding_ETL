@@ -5,17 +5,17 @@ Mini Project - Building an ETL pipeline using Python, Pandas, and either Python 
 
 - Starter code and resources - from `Starter_Files` folder
 
-### [Category](Resources\category.csv) and [Subcategory](Resources\subcategory.csv) Dataframes
+### [Category](Resources/category.csv) and [Subcategory](Resources/subcategory.csv) Dataframes
 
 - No sources to cite
 
-### [Campaign](Resources\campaign.csv) Dataframe
+### [Campaign](Resources/campaign.csv) Dataframe
 
 -
 
 
 
-### [Contacts](Resources\contacts.xlsx) Dataframe
+### [Contacts](Resources/contacts.xlsx) Dataframe
 
 -
 
