@@ -11,8 +11,8 @@ Mini Project - Building an ETL pipeline using Python, Pandas, and either Python 
 
 ### [Campaign](Resources/campaign.csv) Dataframe
 
-- #https://stackoverflow.com/questions/19231871/convert-unix-time-to-readable-date-in-pandas-dataframe
-#https://pandas.pydata.org/docs/reference/api/pandas.to_datetime.html 
+- https://stackoverflow.com/questions/19231871/convert-unix-time-to-readable-date-in-pandas-dataframe
+- https://pandas.pydata.org/docs/reference/api/pandas.to_datetime.html 
 
 ### [Contacts](Resources/contacts.xlsx) Dataframe
 
@@ -20,4 +20,4 @@ Mini Project - Building an ETL pipeline using Python, Pandas, and either Python 
 
 ### [Crowdfunding](crowdfunding_db.sql) Database Schema
 
--
+- No Sources to cite
