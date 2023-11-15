@@ -13,14 +13,10 @@ Mini Project - Building an ETL pipeline using Python, Pandas, and either Python 
 
 -
 
-
-
 ### [Contacts](Resources/contacts.xlsx) Dataframe
 
 -
 
-
-
-### [Crowdfunding]() Database
+### [Crowdfunding](crowdfunding_db.sql) Database Schema
 
 -
